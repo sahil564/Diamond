@@ -1,7 +1,6 @@
 Flask==1.1.1
 numpy==1.19.5
-tensorflow==2.5.0
-keras==2.4.3
+keras==2.7.0
 appdirs==1.4.3
 certifi==2020.6.20
 click==7.1.2
