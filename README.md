@@ -1,2 +1,2 @@
 # Diamond
-code is private
+# code is private
